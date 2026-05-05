@@ -31,5 +31,6 @@ Same data. Different metric. Different winner.
 
 Add dashboard screenshot here:
 
-```markdown
+## Dashboard Preview
+
 ![Sports League Attendance Dashboard](images/sports-attendance-dashboard.png)
