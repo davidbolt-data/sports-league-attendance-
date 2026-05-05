@@ -32,4 +32,4 @@ Same data. Different metric. Different winner.
 Add dashboard screenshot here:
 
 ```markdown
-![Sports League Attendance Dashboard](images/sports-attendance-dashboard.png)
+![Sports League Attendance Dashboard](sports-attendance-dashboard.png)
